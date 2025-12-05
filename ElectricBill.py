@@ -7,7 +7,6 @@ def calculate_bill(units):
     else:
         return (100 * 2.5) + (100 * 3.5) + (units - 200) * 5.0
 
-
 def main():
     n = int(input("Enter number of customers: "))
     total_revenue = 0
