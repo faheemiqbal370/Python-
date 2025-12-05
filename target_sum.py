@@ -5,6 +5,7 @@ def two_sum(arr, target):
                 return [i, j]
     return []
 
+
 arr = [2, 7, 11, 15]
 target = 9
 print(two_sum(arr, target))
