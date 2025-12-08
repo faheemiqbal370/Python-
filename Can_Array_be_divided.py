@@ -18,6 +18,5 @@ def can_partition(arr):
 
     return False
 
-
 arr = [1, 5, 11, 5]
 print(can_partition(arr))
