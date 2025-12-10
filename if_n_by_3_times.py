@@ -8,6 +8,5 @@ def elements_n_by_3(arr):
 
     return result
 
-
 arr = [3, 2, 3, 2, 2, 1, 3]
 print(elements_n_by_3(arr))
